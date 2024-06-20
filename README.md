@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+![Anais's github stats](https://github-readme-stats.vercel.app/api?username=An4i3s&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=An4i3s&layout=compact)](https://github.com/An4i3s/github-readme-stats)
+
+
 <!--
 **An4i3s/An4i3s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
