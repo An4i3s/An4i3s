@@ -1,5 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello!&fontSize=90&theme=radical)
 
+<h2> About Me</h2>
+<h4>📱 Mobile Developer</h4>
+<h4>📍 Milan, Italy</h4>
+<h4>👩🏻‍🎓 ITS Rizzoli, Milan</h4>
+<h4>Languages: 🇮🇹 🇫🇷 🇬🇧 🇪🇸</h4>
+
+
+
+----
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
