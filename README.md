@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
+
 ![Anais's github stats](https://github-readme-stats.vercel.app/api?username=An4i3s&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=An4i3s&layout=compact)](https://github.com/An4i3s/github-readme-stats)
