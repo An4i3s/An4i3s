@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello!&fontSize=90&theme=radical)
 
 <h2> About Me</h2>
-<h4>📱 Mobile Developer</h4>
-<h4>📍 Milan, Italy</h4>
-<h4>👩🏻‍🎓 ITS Rizzoli, Milan</h4>
-<h4>Languages: 🇮🇹 🇫🇷 🇬🇧 🇪🇸</h4>
+<h3>📱 Mobile Developer</h3>
+<h3>📍 Milan, Italy</h3>
+<h3>👩🏻‍🎓 ITS Rizzoli, Milan</h3>
+<h3>I speak: 🇮🇹 🇫🇷 🇬🇧 🇪🇸</h3>
 
 
 
